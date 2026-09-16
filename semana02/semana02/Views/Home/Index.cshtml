@@ -1,0 +1,25 @@
+﻿@model semana02.Models.Clases.Persona
+
+<h1>Formulario para Personas</h1>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.Label("Id")
+        @Html.TextBoxFor(model => model.id)
+    </div>
+
+    <div>
+        @Html.Label("Nombre")
+        @Html.TextBoxFor(model => model.nombres)
+    </div>
+
+    <div>
+        @Html.Label("Apellido")
+        @Html.TextBoxFor(model => model.apellidos)
+    </div>
+    <div>
+        @Html.ActionLink("Guardar", "guardarPersona")
+        <input type="submit" value="Guardar Persona"/> <!--Submit invoca el metodo POST-->
+    </div>
+}
