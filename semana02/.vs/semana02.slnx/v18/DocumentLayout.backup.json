@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\root\\source\\repos\\semana02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|c:\\users\\root\\source\\repos\\semana02\\semana02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|solutionrelative:semana02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|c:\\users\\root\\source\\repos\\semana02\\semana02\\views\\alumno\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|solutionrelative:semana02\\views\\alumno\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|c:\\users\\root\\source\\repos\\semana02\\semana02\\views\\home\\guardarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|solutionrelative:semana02\\views\\home\\guardarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|c:\\users\\root\\source\\repos\\semana02\\semana02\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|solutionrelative:semana02\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|c:\\users\\root\\source\\repos\\semana02\\semana02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|solutionrelative:semana02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|c:\\users\\root\\source\\repos\\semana02\\semana02\\views\\alumno\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|solutionrelative:semana02\\views\\alumno\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|c:\\users\\root\\source\\repos\\semana02\\semana02\\models\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|solutionrelative:semana02\\models\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|c:\\users\\root\\source\\repos\\semana02\\semana02\\models\\clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|C:\\Users\\root\\source\\repos\\semana02\\semana02\\models\\clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|solutionrelative:semana02\\models\\clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|c:\\users\\root\\source\\repos\\semana02\\semana02\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7377E0F9-DBA2-4B61-81C0-A0E8A25096D1}|semana02\\semana02.csproj|solutionrelative:semana02\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,58 +34,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "guardarPersona.cshtml",
-              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Views\\Home\\guardarPersona.cshtml",
-              "RelativeDocumentMoniker": "semana02\\Views\\Home\\guardarPersona.cshtml",
-              "ToolTip": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Views\\Home\\guardarPersona.cshtml",
-              "RelativeToolTip": "semana02\\Views\\Home\\guardarPersona.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-16T01:14:10.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Models\\Clases\\Persona.cs",
-              "RelativeDocumentMoniker": "semana02\\Models\\Clases\\Persona.cs",
-              "ToolTip": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Models\\Clases\\Persona.cs",
-              "RelativeToolTip": "semana02\\Models\\Clases\\Persona.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T01:05:17.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "semana02\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "semana02\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Views\\Alumno\\Index.cshtml",
+              "RelativeDocumentMoniker": "semana02\\Views\\Alumno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Views\\Alumno\\Index.cshtml",
+              "RelativeToolTip": "semana02\\Views\\Alumno\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-16T01:00:33.708Z",
+              "WhenOpened": "2026-09-19T02:08:12.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "semana02\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "semana02\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T01:15:59.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "semana02\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "semana02\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T00:41:49.707Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Views\\Alumno\\Create.cshtml",
+              "RelativeDocumentMoniker": "semana02\\Views\\Alumno\\Create.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Views\\Alumno\\Create.cshtml",
+              "RelativeToolTip": "semana02\\Views\\Alumno\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T01:07:37.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Views\\Alumno\\Index2.cshtml",
+              "RelativeDocumentMoniker": "semana02\\Views\\Alumno\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Views\\Alumno\\Index2.cshtml",
+              "RelativeToolTip": "semana02\\Views\\Alumno\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T00:59:15.412Z",
               "EditorCaption": ""
             },
             {
@@ -92,9 +96,22 @@
               "RelativeDocumentMoniker": "semana02\\Models\\Clases\\Alumno.cs",
               "ToolTip": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Models\\Clases\\Alumno.cs",
               "RelativeToolTip": "semana02\\Models\\Clases\\Alumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-16T00:31:04.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Models\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "semana02\\Models\\Clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\semana02\\semana02\\Models\\Clases\\Persona.cs*",
+              "RelativeToolTip": "semana02\\Models\\Clases\\Persona.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T00:27:11.7Z",
               "EditorCaption": ""
             }
           ]

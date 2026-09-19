@@ -29,5 +29,14 @@ namespace semana02.Models.Clases
         {
             return DateTime.Now.Year - fechaNacimiento.Year;
         }
+
+        public Boolean validarPersona()
+        {
+            if(fechaNacimiento.Year <= 1900)
+            {
+                return false;
+            }
+            return true;
+        }
     }
 }

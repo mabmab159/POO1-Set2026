@@ -1,0 +1,25 @@
+﻿@model semana02.Models.Clases.Alumno
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index de Alumno</h2>
+
+<div>
+    <div>
+        @Html.DisplayFor(model => model.codigoAlumno)
+        @Html.TextBoxFor(model => model.codigoAlumno)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.carrera)
+        @Html.TextBoxFor(model => model.carrera)
+    </div>
+    <div>
+        @Model.facultad
+        @Html.TextBoxFor(model => model.facultad)
+    </div>
+
+    <div class="carousel slide"></div>
+</div>
+
