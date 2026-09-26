@@ -1,0 +1,58 @@
+﻿@model semana03.Models.Empleado
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Empleado</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.idEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nomapeEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nomapeEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.categoriaEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.categoriaEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nHijos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nHijos)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tipoContrato)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tipoContrato)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

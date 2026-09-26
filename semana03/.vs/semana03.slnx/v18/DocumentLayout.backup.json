@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\root\\source\\POO1\\semana03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|c:\\users\\root\\source\\poo1\\semana03\\semana03\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|solutionrelative:semana03\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|c:\\users\\root\\source\\poo1\\semana03\\semana03\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|solutionrelative:semana03\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|c:\\users\\root\\source\\poo1\\semana03\\semana03\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|solutionrelative:semana03\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|c:\\users\\root\\source\\poo1\\semana03\\semana03\\views\\empleado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|solutionrelative:semana03\\views\\empleado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|c:\\users\\root\\source\\poo1\\semana03\\semana03\\views\\empleado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|solutionrelative:semana03\\views\\empleado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|c:\\users\\root\\source\\poo1\\semana03\\semana03\\views\\empleado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15A08B35-8177-446E-AFDD-47DF8B07D8CD}|semana03\\semana03.csproj|solutionrelative:semana03\\views\\empleado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Views\\Empleado\\Edit.cshtml",
+              "RelativeDocumentMoniker": "semana03\\Views\\Empleado\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Views\\Empleado\\Edit.cshtml",
+              "RelativeToolTip": "semana03\\Views\\Empleado\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T02:36:21.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Views\\Empleado\\Index.cshtml",
+              "RelativeDocumentMoniker": "semana03\\Views\\Empleado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Views\\Empleado\\Index.cshtml",
+              "RelativeToolTip": "semana03\\Views\\Empleado\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:51:06.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Views\\Empleado\\Details.cshtml",
+              "RelativeDocumentMoniker": "semana03\\Views\\Empleado\\Details.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Views\\Empleado\\Details.cshtml",
+              "RelativeToolTip": "semana03\\Views\\Empleado\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:50:17.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Views\\Empleado\\Create.cshtml",
+              "RelativeDocumentMoniker": "semana03\\Views\\Empleado\\Create.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Views\\Empleado\\Create.cshtml",
+              "RelativeToolTip": "semana03\\Views\\Empleado\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:49:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "semana03\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "semana03\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T01:37:18.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "semana03\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana03\\semana03\\Models\\Empleado.cs",
+              "RelativeToolTip": "semana03\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T01:36:17.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

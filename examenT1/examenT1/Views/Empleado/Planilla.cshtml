@@ -1,0 +1,57 @@
+﻿@model IEnumerable<examenT1.Models.Empleado>
+
+@{
+    ViewBag.Title = "Planilla";
+}
+
+<h2>Planilla</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.idEmpleado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nomapeEmpleado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.categoriaEmpleado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nHijos)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tipoContrato)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.idEmpleado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nomapeEmpleado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.categoriaEmpleado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nHijos)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tipoContrato)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>
