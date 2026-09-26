@@ -58,5 +58,19 @@ namespace semana03.Controllers
             ViewBag.Mensaje = "Elemento actualizado";
             return View(empleado);
         }
+
+        public ActionResult Delete(int id)
+        {
+            Empleado empleadoEncontrado = empleados.Find(e => e.idEmpleado == id);
+            return View(empleadoEncontrado);
+        }
+
+        [HttpPost]
+        public ActionResult Delete(Empleado empleado)
+        {
+            int index = empleados.FindIndex(e => e.idEmpleado == empleado.idEmpleado);
+            empleados.RemoveAt(index);
+            return RedirectToAction("Index");
+        }
     }
 }

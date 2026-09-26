@@ -1,0 +1,66 @@
+﻿@model semana03.Models.Empleado
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Empleado</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.idEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nomapeEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nomapeEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.categoriaEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.categoriaEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nHijos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nHijos)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tipoContrato)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tipoContrato)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        @Html.HiddenFor(model => model.idEmpleado)
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
