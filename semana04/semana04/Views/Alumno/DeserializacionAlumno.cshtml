@@ -1,0 +1,43 @@
+﻿@model semana04.Models.Alumno
+
+@{
+    ViewBag.Title = "DeserializacionAlumno";
+}
+
+<h2>DeserializacionAlumno</h2>
+
+<div>
+    <h4>Alumno</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lastname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lastname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.profession)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.profession)
+        </dd>
+
+    </dl>
+</div>
+    @ViewBag.mensaje
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

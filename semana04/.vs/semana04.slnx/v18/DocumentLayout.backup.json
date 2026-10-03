@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\root\\source\\POO1\\semana04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|c:\\users\\root\\source\\poo1\\semana04\\semana04\\controllers\\procesoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|solutionrelative:semana04\\controllers\\procesoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|c:\\users\\root\\source\\poo1\\semana04\\semana04\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|solutionrelative:semana04\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|c:\\users\\root\\source\\poo1\\semana04\\semana04\\views\\procesos\\pokemonsecuencial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|solutionrelative:semana04\\views\\procesos\\pokemonsecuencial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|c:\\users\\root\\source\\poo1\\semana04\\semana04\\views\\alumno\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|solutionrelative:semana04\\views\\alumno\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|c:\\users\\root\\source\\poo1\\semana04\\semana04\\views\\procesos\\operaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|solutionrelative:semana04\\views\\procesos\\operaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|c:\\users\\root\\source\\poo1\\semana04\\semana04\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|solutionrelative:semana04\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|c:\\users\\root\\source\\poo1\\semana04\\semana04\\views\\alumno\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A08441E6-8609-426E-8737-0B0A2292761D}|semana04\\semana04.csproj|solutionrelative:semana04\\views\\alumno\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PokemonSecuencial.cshtml",
-              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Views\\Procesos\\PokemonSecuencial.cshtml",
-              "RelativeDocumentMoniker": "semana04\\Views\\Procesos\\PokemonSecuencial.cshtml",
-              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Views\\Procesos\\PokemonSecuencial.cshtml",
-              "RelativeToolTip": "semana04\\Views\\Procesos\\PokemonSecuencial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Views\\Alumno\\Edit.cshtml",
+              "RelativeDocumentMoniker": "semana04\\Views\\Alumno\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Views\\Alumno\\Edit.cshtml",
+              "RelativeToolTip": "semana04\\Views\\Alumno\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-30T01:47:45.687Z",
+              "WhenOpened": "2026-10-03T02:55:51.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Operaciones.cshtml",
-              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Views\\Procesos\\Operaciones.cshtml",
-              "RelativeDocumentMoniker": "semana04\\Views\\Procesos\\Operaciones.cshtml",
-              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Views\\Procesos\\Operaciones.cshtml",
-              "RelativeToolTip": "semana04\\Views\\Procesos\\Operaciones.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Views\\Alumno\\Create.cshtml",
+              "RelativeDocumentMoniker": "semana04\\Views\\Alumno\\Create.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Views\\Alumno\\Create.cshtml",
+              "RelativeToolTip": "semana04\\Views\\Alumno\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-30T00:53:32.338Z",
+              "WhenOpened": "2026-10-03T02:26:59.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProcesosController.cs",
-              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Controllers\\ProcesosController.cs",
-              "RelativeDocumentMoniker": "semana04\\Controllers\\ProcesosController.cs",
-              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Controllers\\ProcesosController.cs",
-              "RelativeToolTip": "semana04\\Controllers\\ProcesosController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFcAAAAxAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Views\\Alumno\\Index.cshtml",
+              "RelativeDocumentMoniker": "semana04\\Views\\Alumno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Views\\Alumno\\Index.cshtml",
+              "RelativeToolTip": "semana04\\Views\\Alumno\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T02:13:57.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "semana04\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\root\\source\\POO1\\semana04\\semana04\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "semana04\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwG8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T00:42:34.916Z",
+              "WhenOpened": "2026-10-03T02:08:36.014Z",
               "EditorCaption": ""
             }
           ]
