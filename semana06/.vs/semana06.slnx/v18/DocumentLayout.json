@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\root\\source\\repos\\semana06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B9FEE4-355E-4944-B878-46E2A279C584}|semana06\\semana06.csproj|c:\\users\\root\\source\\repos\\semana06\\semana06\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B9FEE4-355E-4944-B878-46E2A279C584}|semana06\\semana06.csproj|solutionrelative:semana06\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B9FEE4-355E-4944-B878-46E2A279C584}|semana06\\semana06.csproj|c:\\users\\root\\source\\repos\\semana06\\semana06\\views\\alumno\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B9FEE4-355E-4944-B878-46E2A279C584}|semana06\\semana06.csproj|solutionrelative:semana06\\views\\alumno\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B9FEE4-355E-4944-B878-46E2A279C584}|semana06\\semana06.csproj|C:\\Users\\root\\source\\repos\\semana06\\semana06\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B9FEE4-355E-4944-B878-46E2A279C584}|semana06\\semana06.csproj|solutionrelative:semana06\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B9FEE4-355E-4944-B878-46E2A279C584}|semana06\\semana06.csproj|c:\\users\\root\\source\\repos\\semana06\\semana06\\views\\alumno\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B9FEE4-355E-4944-B878-46E2A279C584}|semana06\\semana06.csproj|solutionrelative:semana06\\views\\alumno\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B9FEE4-355E-4944-B878-46E2A279C584}|semana06\\semana06.csproj|c:\\users\\root\\source\\repos\\semana06\\semana06\\views\\alumno\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B9FEE4-355E-4944-B878-46E2A279C584}|semana06\\semana06.csproj|solutionrelative:semana06\\views\\alumno\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana06\\semana06\\Views\\Alumno\\Delete.cshtml",
+              "RelativeDocumentMoniker": "semana06\\Views\\Alumno\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\semana06\\semana06\\Views\\Alumno\\Delete.cshtml",
+              "RelativeToolTip": "semana06\\Views\\Alumno\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T03:21:10.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana06\\semana06\\Views\\Alumno\\Details.cshtml",
+              "RelativeDocumentMoniker": "semana06\\Views\\Alumno\\Details.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\semana06\\semana06\\Views\\Alumno\\Details.cshtml",
+              "RelativeToolTip": "semana06\\Views\\Alumno\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T02:40:18.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana06\\semana06\\Views\\Alumno\\Create.cshtml",
+              "RelativeDocumentMoniker": "semana06\\Views\\Alumno\\Create.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\semana06\\semana06\\Views\\Alumno\\Create.cshtml",
+              "RelativeToolTip": "semana06\\Views\\Alumno\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T01:46:12.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana06\\semana06\\Views\\Alumno\\Index.cshtml",
+              "RelativeDocumentMoniker": "semana06\\Views\\Alumno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\semana06\\semana06\\Views\\Alumno\\Index.cshtml",
+              "RelativeToolTip": "semana06\\Views\\Alumno\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T01:13:53.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\semana06\\semana06\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "semana06\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\semana06\\semana06\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "semana06\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAADwv44AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:59:16.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
